@@ -66,3 +66,17 @@ fetch(apiUrl)
     // Download the CSV file
    
 ```
+
+To load your own Google Chrome extension, follow these steps:
+
+Open Google Chrome and go to chrome://extensions/ in the address bar.
+
+Enable the "Developer mode" toggle in the top right corner of the page.
+
+Click the "Load unpacked" button and select the folder that contains your extension's files.
+
+Your extension should now appear in the list of installed extensions. You can click on its "Details" button to view its options and manage its permissions.
+
+To use the extension, click on its icon in the toolbar. Depending on the extension's behavior, it may open a new window, change the current page, or display a popup menu.
+
+Note: If you make any changes to the extension's files, you will need to click the "Reload" button next to the extension in the list of installed extensions in order for the changes to take effect.
